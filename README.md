@@ -15,9 +15,9 @@
 * [Lab 7][Lab 7 page]
   * Galaga
 * [Lab 8][Lab 8 page]
-  * Dinosaurs and an Astroid (Requires Simple Web Server to Render Images)
+  * Dinosaurs and an Astroid (**Requires Simple Web Server to Render Images**)
 * Lab 9
-  * Chose p5play library for the next lab (No Content)
+  * Chose p5play library for the next lab (**No Content**)
 * [Lab 10][Lab 10 page]
   * Minigame: get the three balls in each of the three buckets
 
