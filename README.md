@@ -1,2 +1,6 @@
 # MAGD-150-Intro-to-MAGD
-Classwork, assignments, and projects in p5.js
+##Lab Assignments
+1. Lab 1  
+  * Cityscape
+  * Grayscale
+2. Lab 2
