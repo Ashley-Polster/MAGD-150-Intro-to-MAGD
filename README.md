@@ -22,11 +22,11 @@
   * Minigame: get the three balls in each of the three buckets
 
 [Lab 1 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%201.1%20Resubmit.zip
-[Lab 2 page]: 
-[Lab 3 page]: 
-[Lab 4 page]: 
-[Lab 5 page]: 
-[Lab 6 page]: 
-[Lab 7 page]: 
-[Lab 8 page]: 
-[Lab 10 page]: 
+[Lab 2 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%202%20Turn%20In.zip
+[Lab 3 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%203%20Turn%20In.zip
+[Lab 4 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%204%20Turn%20In.zip
+[Lab 5 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%205%20Turn%20In.zip
+[Lab 6 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%206%20Turn%20In.zip
+[Lab 7 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%207%20Turn%20In.zip
+[Lab 8 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%208%20Turn%20In.zip
+[Lab 10 page]: https://github.com/Ashley-Polster/MAGD-150-Intro-to-MAGD/blob/gh-pages/Polster%20-%20Lab%2010%20Turn%20In.zip
