@@ -1,4 +1,4 @@
-# MAGD-150-Intro-to-MAGD
+# MAGD-150-Intro-to
 ## Lab Assignments in p5.js
 * [Lab 1][Lab 1 page] 
   * Grayscale Cityscape
